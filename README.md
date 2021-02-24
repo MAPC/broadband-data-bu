@@ -1,5 +1,6 @@
 # broadband-data-bu
-Repo for data analysis from Boston University Spark Teams!
+Repo for data analysis from Boston University Spark Teams! MAPC will work with Spark to investigate historical broadband speeds and coverage data along demographic and Census variables in Massachusetts.
+
 
 # Datasets
 ## Measurement Lab (M-Lab) Data
