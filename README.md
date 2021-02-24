@@ -22,7 +22,7 @@ Our initial data pull for a few towns can be found in the [repository here](http
 ## Federal Communications Commission (FCC) Data
 [FCC coverage map](https://broadbandmap.fcc.gov/#/) This is the map with [funds](https://www.wiley.law/alert-Congress-Provides-Nearly-7-Billion-in-New-Broadband-Funding-in-the-Latest-COVID-19-Stimulus-Legislation) on way to [improve the map](https://statescoop.com/fcc-adopts-new-broadband-data-mapping-rules/) 
 
-FCC data can be [found here](https://opendata.fcc.gov/). Have included in repository fixed broadband coverage from 477 forms for MA-Fixed-Jun2019.
+FCC data can be [found here](https://opendata.fcc.gov/). Have included in repository fixed broadband coverage from [477 forms](https://www.fcc.gov/tags/form-477-data) for [MA-Fixed-Jun2019](https://github.com/MAPC/broadband-data-bu/tree/main/FCC%20data).
 
 
 ## DataCommon and Census Data
